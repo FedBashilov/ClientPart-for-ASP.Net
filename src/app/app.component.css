@@ -1,0 +1,42 @@
+.department_card{
+  border: 1px solid black;
+  background: #efefef;
+  padding: 10px;
+}
+
+.student_info{
+  border: 1px solid black;
+  margin: 10px;
+  background: white;
+  padding: 10px;
+}
+
+.add_student_form{
+  position: fixed;
+  top: 0;
+  right: 0;
+  display:none;
+  border: 1px solid black;
+  background: #d8eef2;
+  padding: 10px;
+}
+
+.close_button{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.add_department_form{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  display:none;
+  border: 1px solid black;
+  background: #d8eef2;
+  padding: 10px;
+}
+
+button{
+  margin: 5px;
+}
